@@ -1,0 +1,2 @@
+Problem Description
+I considered it not enough to have someone's number as a complete description of a friend or an acquaintance. Sometimes someone calls you and all you can see is the person's name and phone number.it might also occur that two or three persons on your contact have the same name. I thought of it as been necessary to include such fields as the contacts address and email at the same time alongside the other location parameters. It is with this drive that the android project "Nna-Did Adr_Bk" came to limelight

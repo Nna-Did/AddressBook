@@ -1,0 +1,72 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionCode
+		ADDED from AndroidManifest.xml:3:38
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+application
+ADDED from AndroidManifest.xml:5:5
+MERGED from com.android.support:appcompat-v7:21.0.3:16:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+	android:label
+		ADDED from AndroidManifest.xml:6:9
+	android:icon
+		ADDED from AndroidManifest.xml:5:18
+activity#com.nnadid.addressbook.AddressBook
+ADDED from AndroidManifest.xml:7:9
+	android:name
+		ADDED from AndroidManifest.xml:7:19
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:9:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:10:17
+	android:name
+		ADDED from AndroidManifest.xml:10:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:11:17
+	android:name
+		ADDED from AndroidManifest.xml:11:27
+activity#com.nnadid.addressbook.splash
+ADDED from AndroidManifest.xml:15:9
+	android:name
+		ADDED from AndroidManifest.xml:15:19
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULlT
+ADDED from AndroidManifest.xml:16:13
+category#android.intent.category.DEFAULlT
+ADDED from AndroidManifest.xml:18:17
+	android:name
+		ADDED from AndroidManifest.xml:18:27
+activity#com.nnadid.addressbook.AddEditContact
+ADDED from AndroidManifest.xml:22:9
+	android:label
+		ADDED from AndroidManifest.xml:23:13
+	android:name
+		ADDED from AndroidManifest.xml:22:19
+activity#com.nnadid.addressbook.ViewContact
+ADDED from AndroidManifest.xml:24:9
+	android:label
+		ADDED from AndroidManifest.xml:25:13
+	android:name
+		ADDED from AndroidManifest.xml:24:19
+uses-sdk
+ADDED from AndroidManifest.xml:27:5
+MERGED from com.android.support:appcompat-v7:21.0.3:15:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:27:15
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
